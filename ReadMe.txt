@@ -1,0 +1,1 @@
+Os arqvs de img para abrir com os trab nao estao no git ainda :)
